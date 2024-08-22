@@ -1,0 +1,24 @@
+h1 {
+    background-color: red;
+    
+}
+button{
+    background-color: azure;
+}
+.heading2{
+    background-color: green;
+}
+#siha{
+    background-color: brown;
+}
+<div>{
+    position: relative;
+    width: 300px;
+    height: 500px;
+    border: 5px solid green;
+}
+img{
+    position: relative;
+    position: fixed;
+    position: absolute;
+}
